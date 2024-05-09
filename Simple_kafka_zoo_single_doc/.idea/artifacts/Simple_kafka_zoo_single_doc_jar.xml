@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Simple_kafka_zoo_single_doc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simple_kafka_zoo_single_doc_jar</output-path>
+    <root id="archive" name="Simple_kafka_zoo_single_doc.jar">
+      <element id="module-output" name="Simple_kafka_zoo_single_doc" />
+      <element id="extracted-dir" path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.4.0/kafka-clients-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.2-1/zstd-jni-1.5.2-1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="sbt: scala-sdk-2.13.12" />
+      <element id="extracted-dir" path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
