@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="252905e4-1415-4981-9b8f-4c351b6560f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala3_library_3_3_3_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__scala_sdk_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Movie_analytics.Movie_analytics-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/movies.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/ratings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/users.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/movies_clean.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/artifacts/Simple_kafka_zoo_single_doc_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/libraries/sbt__com_github_luben_zstd_jni_1_5_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/libraries/sbt__org_apache_kafka_kafka_clients_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/libraries/sbt__org_lz4_lz4_java_1_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_36_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_8_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/libraries/sbt__scala_sdk_2_13_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/modules/Simple_kafka_zoo_single_doc.Simple_kafka_zoo_single_doc-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/modules/Simple_kafka_zoo_single_doc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/src/main/docker_file/3 brokers with zookeeper/3_broker_docker.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/src/main/docker_file/conflunet_kafka_linux_sbt/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/src/main/docker_file/single_kafka_zoo/docker.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/src/main/scala/KafkaConsumerExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple_kafka_zoo_single_doc/src/main/scala/simple_producer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/libraries/sbt__scala_sdk_2_13_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/modules/kafka_installation_conf-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/modules/kafka_installation_conf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/modules/kafka_producer_consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/project/kafka_producer_consumer/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/project/kafka_producer_consumer/.idea/modules/kafka_producer_consumer-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/project/kafka_producer_consumer/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/project/kafka_producer_consumer/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/project/kafka_producer_consumer/src/main/scala/producer_exam.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_installation_conf/src/main/kafka_docker/single_kafka_zoo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark_kubernetes/.idea/modules/spark_kubernetes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark_kubernetes/.idea/modules/spark_kubernetes.spark_kubernetes-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka_file_rad/.idea/modules/Kafka_file_rad-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka_file_rad/.idea/modules/Kafka_file_rad.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Movie_analytics-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Movie_analytics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Movie_analytics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka_zookeeper_pull/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka_zookeeper_pull/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka_zookeeper_pull/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka_zookeeper_pull/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka_zookeeper_pull/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka_zookeeper_pull/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka_zookeeper_pull/kafka_zookeeper_pull.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kakfa and zookeeper docker pull/kakfa and zookeeper docker pull.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_learning/.idea/modules/spark_learning-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_learning/.idea/modules/spark_learning.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2g7wTekGagolpchxrHaL5VPdb8y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="ScalaProjectSettings">
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="252905e4-1415-4981-9b8f-4c351b6560f8" name="Changes" comment="" />
+      <created>1715061934755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715061934755</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
